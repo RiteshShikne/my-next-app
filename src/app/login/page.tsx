@@ -95,7 +95,7 @@ export default function LoginPage() {
                 {buttonDisabled ? "No Login" : "Login"}
               </button>
               <p className="text-sm font-light text-gray-500 dark:text-gray-400">
-                Don't have an account?{" "}
+                Don&apos;t have an account?{" "}
                 <Link
                   href="/signup"
                   className="font-medium hover:underline text-gray-400"
